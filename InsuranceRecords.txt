@@ -1,0 +1,18 @@
+Type: Car
+Owner: Khemraj
+Registration Number: 65465
+Vehicle Value: 1500000.0
+Premium: 74600.0
+---------------------------------
+Type: Bike
+Owner: Harshit
+Registration Number: 255135
+Vehicle Value: 110000.0
+Premium: 3500.0
+---------------------------------
+Type: Truck
+Owner: Chetan
+Registration Number: 654456
+Vehicle Value: 2500000.0
+Premium: 150100.0
+---------------------------------
